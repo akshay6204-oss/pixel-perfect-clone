@@ -59,7 +59,7 @@
     font-family: var(--font-sans);
   }
   input::placeholder,
-  textarea::placeholder { color: oklch(0.66 0.03 292); opacity: 1; }
+  textarea::placeholder { color: oklch(0.75 0.025 292); opacity: 1; }
 }
 
 @utility grid-bg {
