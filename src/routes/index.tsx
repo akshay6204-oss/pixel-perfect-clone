@@ -156,7 +156,7 @@ function Index() {
             <h2 className="text-4xl font-bold mb-6">Get in Touch</h2>
             <div className="space-y-3 font-mono text-sm">
               <a href="mailto:akshay6204kumar@gmail.com" className="block text-primary hover:underline">→ akshay6204kumar@gmail.com</a>
-              <a href="https://github.com/" target="_blank" rel="noreferrer" className="block text-accent hover:underline">→ GitHub Profile</a>
+              <a href="https://github.com/akshay6204-oss" target="_blank" rel="noreferrer" className="block text-accent hover:underline">→ github.com/akshay6204-oss</a>
             </div>
           </div>
           <form onSubmit={submit} className="space-y-4">
